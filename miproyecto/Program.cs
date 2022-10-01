@@ -11,6 +11,7 @@ namespace miproyecto
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Universo");
+            Console.WriteLine("Hola Universo");
             Console.ReadLine();
         }
     }
